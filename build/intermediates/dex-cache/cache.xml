@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/a61d03a2584985efcca81827ff28a7eb229f53e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_525f77db381d8f8bc04dbbaae71460b7a7eca13f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/7082d2642e883e5ea756786374aafcf96003fa2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc045891d7e47ef6f40f707425e913587319e0df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/29d029006201345f33102fea576d0529c431167f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db0ce5af502e3310f2b672e48099ae8ce88b60b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/aspectjrt-1.8.5_e2cd99f53936ef592d77d59421ceae5e2ca7fc8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/8030a36d68b47b9d815eb7ac1b5a369921f50e24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9a8c5135271129b5a22bf04ba7e4b1fd8dbae56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_cd1345b41c3b4c23c656844ddd339dcd930c1c06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/6501416c7fbef708846f0678352e9f9daa01c9a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aee2ce9c749007de1299fe78a7b7da6fd4ccb398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/365cd7c78ad2d76423488672f4474702fcdab643/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45cd53294a3c79edbcc2b637953e896cb4fa942f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-annotations/1.2.1/b01150795c5cdca1eb7e501bf00f105ff0e31501/hugo-annotations-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/hugo-annotations-1.2.1_29037be4be5c79ac377d33bf52525178a90745d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_2a9f96ecc0bc36b911cb9ca978992db908a8d608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/350881dd9a32e3f63aa3dd26c0f63b1995dc1d64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36b1590f5ffee1f85e7391e58431b882719afa8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/7beda51ce80b33595b3bceb35dbb387e83b8e780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55242002d52d87c2b470f5c84bf283759a727304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/249e57abd4f0fc73246322919253b006d0b07877/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf30d75f91600b77f7f381cd957c8fc754501221">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03e3d6a0b57283580db3f48331cae2b0d1d3149f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/7c3c98143a28f99f819ead94d1d358c2824fc48b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bede2dcfab76a8c89798b7255d465cf187223aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5c9a7f68f3ac6b47c223411a6cc5ea397e2329b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/e867cba95cbf5b043316895cfa5580bab8de6081/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70036e565f7b7e4345e788ee814e91dd15c4d76e">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22b7ca9a2904a7095c3beac94c0575d2c6843cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_b5bc01737adbca1eae09c8f6db1053c393076255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/4.0.0/8ef59050fdc527130b8f1f5689164a1ec0ebc13c/androidannotations-api-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ef59050fdc527130b8f1f5689164a1ec0ebc13c">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-4.0.0_6fab452ce9c9f9cadce80aa2c8fd6f9663a80371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/263a02dc6ced00eb95d8ca9e31a88a8b5d69ddda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22002406c56efb1402698751f18daf1beabad69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.3/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_794c5c112a09eff6a4f6cf7a17eda19021d44b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/2fee8a414886730a0aea8d2ee791b285b92cf20a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8da5629a16e39cafaf93c64001fe970d1f980e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/bef1ef9514c26a2d44caafeba3ab5a042e347f1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e758ab58a15bc6f58fe52e9d6636328fdb84c602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63e4b31cab0c78815cb6d536c6e5827905669bf7">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e8da92cb6323c0f094cef892b5b5b3d2f5e6da55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/bf8abcc20402605a8b981af09394ca0b6d548635/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0270828df660e7f90ba75b7c76cf4ff76419a7da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/16ee24b3b9ec11927083384c5e753673618d905b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cd667df26abe951d9f7784f4ddf401d1f828b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.6.1/d9521f2aecb909835746b7a5facf612af5e890e8/protobuf-java-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-java-2.6.1_0a1e780d40aadb199718a5405d76dcfe9f571696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oguzhanozturk/.android/build-cache/a2df298fdbef22c46949663fc5a9d758c5deded1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/oguzhanozturk/StudioProjects/Fast-Face-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3b02f30d5e26ad0a05cb1f8a8504a5a982c4106/classes.dex" />
+    </item>
+
+</items>
